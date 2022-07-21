@@ -1,4 +1,4 @@
 # Calculadora Basica e de pitagoras
  Codigo HTML/CSS/JVS basic
 
-PI calculator that when you type in your equation, either "3 + 4" or "3 - 4" and press the button, the Pythagorean theorem is calculated by a Flask API.
+Calculator with function to calculate the Pythagorean theorem "PI" that when you type your equation "3 + 4" or "3 - 4" and press the button, the calculation of the Pythagorean theorem is done through an API request made in Flask
